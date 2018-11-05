@@ -111,6 +111,7 @@ html, body {
 }
 
 .section {
+  overflow-y: auto;
   background: #fff;
   grid-area: section;
   padding: 10px;
